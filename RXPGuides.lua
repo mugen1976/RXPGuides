@@ -11,7 +11,7 @@ if version < 20000 then
 elseif version > 20000 and version < 30000 then
     RXP_.version = "TBC"
 else
-    RXP_.version = "WOTLK"
+    RXP_.version = "TBC"
 end
 
 RXP_.questQueryList = {}

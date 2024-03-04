@@ -1561,7 +1561,7 @@ function addon.settings:CreateAceOptionsPanel()
                         width = optionsWidth,
                         order = 3.4,
                         values = {
-                            ["Master"] = _G.MASTER,
+                            ["Master"] = _G.MASTER_VOLUME,
                             ["Music"] = _G.MUSIC_VOLUME,
                             ["Ambience"] = _G.AMBIENCE_VOLUME,
                             ["Dialog"] = _G.DIALOG_VOLUME
